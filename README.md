@@ -1,6 +1,16 @@
 # Dev Team Guides
 Practical Guides on How to Setup, Operate and Evaluate Software Development Teams.
 
+# Who is writng this guide?
+
+This guide is written by the developers. I am a developers and started this repo initial contents, but the content is going to be updated in the futues.
+
+# Who is this guide for?
+
+The primary audience for this guide are two groups:
+- non-technical individuals who are working with developers. This group can read this content as a user manual on how to setup a software development team and how to efficiently work with them
+- Developers. This group are the main contributor on this repository. Please read this repository content as an editor and suggest edits or additions in any place which you think could have done better.
+
 # Why I am writing here?
 
 I have been part of 4 early stage startup or software development teams in the intial stages. Unfortunatly some of them didn't suceed and some of them succeeded to some extent.
