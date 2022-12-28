@@ -1,5 +1,13 @@
 # Dev Team Guides
-Practical Guides on How to Setup, Operate and Evaluate Software Development Teams
+Practical Guides on How to Setup, Operate and Evaluate Software Development Teams.
+
+# Why I am writing here?
+
+I have been part of 4 early stage startup or software development teams in the intial stages. Unfortunatly some of them didn't suceed and some of them succeeded to some extent.
+I had the idea to write my experiences in here. Of course they are not perfect and they are not the best ideas but they have been tested in real teams. I have also written my experience which didn't work out and why I think they failed in retrospective.
+I ask you to also write your experience and what you think would be a better solution. With this I hope we will have a comprehensive set of ideas and guidlines on how to manage a software dev team.
+My main focus is early stage teams. By early stage I mean startups or software development companies which have been working for less than 3 years or have at max 20 developers. This is my focus because I only have experinece in this companies.
+
 
 # Team Structure
 
@@ -33,3 +41,11 @@ I wasn't able to
 # But in the end how many strategies are garaunteed to suceed?
 there are many factors which should be considered when trying to come up with a structure or a plan, and based on the memebers of your team maybe the winner solutin for your case is different than mine
 
+# Challenges with remote team
+Post 2020, working with remote teams is becomming a theme nowadays. 
+
+Working with Iranian developers has some challenges which you should consider
+
+
+# Working on International teams
+Considering the culture of the teams is really important
