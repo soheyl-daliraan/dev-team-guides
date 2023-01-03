@@ -1,11 +1,50 @@
-# Dev Team Guides
-Practical Guides on How to Setup, Operate and Evaluate Software Development Teams.
+<div align="center">
 
-# Who is writng this guide?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ariel&weight=900&size=34&duration=2500&pause=5000&color=F7F527&background=0000007E&center=true&vCenter=true&width=435&lines=DEV+Team+Guides)](https://git.io/typing-svg)
 
-This guide is written by the developers. I am a developers and started this repo initial contents, but the content is going to be updated in the futues.
+</div>
+<div align="center">
 
-# Who is this guide for?
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=soheyl-daliraan.dev-team-guides&left_color=green&right_color=red)
+
+<h3><i>
+Practical Guides on How to Setup, Operate and Evaluate Software Development Teams</i></h3>
+<br/>
+ 
+</div>
+
+
+### Contents:
+  - <i>TL;DR</i> What is this Guide?
+  - Who is this guide for?
+  - [Topics](#categories)
+      - [GitHub Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+      - [Descriptive 🗒](#descriptive-)
+      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+      - [Typing.. Mode 🎰](#typing-mode-)
+      - [Anime 👾](#anime-)
+      - [Minimalistic ✨](#minimalistic-)
+      - [GIFS 👻](#gifs-)
+      - [Just Images 🎭](#just-images-)
+      - [Badges 🎫](#badges-)
+      - [Fancy Fonts 🖋](#fancy-fonts-)
+      - [Icons 🎯](#icons-)
+      - [Retro 😎](#retro-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Video Tutorials](#tutorials)
+  - [Contribute](#contribute)
+  - [License](#license)
+
+
+
+
+# 👉 Who is this guide for?
 
 The primary audience for this guide are two groups:
 - non-technical individuals who are working with developers. This group can read this content as a user manual on how to setup a software development team and how to efficiently work with them
@@ -59,3 +98,7 @@ Working with Iranian developers has some challenges which you should consider
 
 # Working on International teams
 Considering the culture of the teams is really important
+
+# Who is writng this guide?
+
+This guide is written by the developers. I am a developers and started this repo initial contents, but the content is going to be updated in the futues.
